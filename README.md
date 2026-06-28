@@ -95,10 +95,6 @@ Machine Learning, Generative AI, Multi-Agent Systems, and Full-Stack AI applicat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastik-59&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-59&layout=compact&theme=tokyonight" />
 </p>
 
