@@ -1,7 +1,8 @@
 <h1 align="center">Swastik Mukherjee</h1>
+<h3 align="center">AI/ML Engineer • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+the+making;Building+systems+that+reason%2C+retrieve%2C+and+remember;Currently+deep+in+RAG+and+multi-agent+architectures;Turning+curiosity+into+code%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd-year+CSE+(AI+%26+ML)+%40+SRMIST+Chennai;Building+RAG+pipelines+and+multi-agent+systems;Open+to+AI%2FML%2FLLM+internships" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,23 +11,19 @@
   </a>
 </p>
 
-<p align="center"><i>"Every model starts as a question. I just happen to like building the systems that go looking for the answer."</i></p>
+## About
 
-<br/>
+Third-year B.Tech CSE student specializing in AI & ML at SRM Institute of Science and Technology, Chennai. I build RAG pipelines, multi-agent systems, and full-stack AI applications — the kind of thing that has to actually run, not just work in a notebook.
 
-## Chapter I — Origin
+## Currently
 
-Third-year B.Tech CSE student specializing in AI & ML at SRM Institute of Science and Technology, Chennai. What started as curiosity about how machines "think" turned into a habit of building the systems that do the thinking — retrieval pipelines, multi-agent architectures, and full-stack AI applications that actually run in production, not just in a notebook.
+- Local-first AI systems
+- Multi-agent architectures and coordination
+- RAG, past the naive vector-search case into structural and relational retrieval
+- Deep learning and generative AI, data to deployment
+- DSA, system design, and security as the foundation underneath the AI work
 
-## Chapter II — What I'm Chasing
-
-- Local-first AI systems that don't depend on someone else's cloud
-- Multi-agent architectures where the coordination is the hard part
-- Retrieval-Augmented Generation, from naive vector search to the harder structural and relational cases
-- Deep learning and generative AI, end to end — data to deployment
-- DSA, system design, and security as the craft underneath the AI
-
-## Chapter III — The Toolkit
+## Tech Stack
 
 **Languages**
 
@@ -65,33 +62,31 @@ Third-year B.Tech CSE student specializing in AI & ML at SRM Institute of Scienc
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## Chapter IV — Find Me
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-59&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Swastik-59&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+## Connect
 
 <p align="left">
   <a href="https://swastikm.is-a.dev"> 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
   </a> 
   <a href="https://linkedin.com/in/swastik-mukherjee-851979315">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://kaggle.com/swastik2006">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://github.com/Swastik-59">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 📧 **swastikmukherjee59@gmail.com**
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-59&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik-59&theme=tokyonight" />
-</p>
-
-<p align="center"><i>Still writing this story, one commit at a time.</i></p>
