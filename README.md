@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd-year+CSE+(AI+%26+ML)+%40+SRMIST+Chennai;Building+RAG+pipelines+and+multi-agent+systems;Open+to+AI%2FML%2FLLM+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd-year+CSE+(AI+%26+ML)+%40+SRMIST+Chennai;Building+RAG+pipelines+and+multi-agent+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -61,16 +61,6 @@ Third-year B.Tech CSE student specializing in AI & ML at SRM Institute of Scienc
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-59&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swastik-59&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 ## Connect
 
